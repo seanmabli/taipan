@@ -1,0 +1,31 @@
+-Assets
+ocean
+islands
+player
+boat
+npcs
+store
+projectiles
+trade goods
+UI :)
+
+-Scrape
+pirate
+  seeing
+  number
+  damage
+  run
+  
+price
+opium bust
+debt
+
+-Functions
+wasd move
+shooting
+npc interaction/purchasing
+saving
+ship status
+debt
+ship hold/inventory
+warehouse
