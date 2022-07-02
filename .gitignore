@@ -41,3 +41,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 /DatabaseManagement/world.tif
 /DatabaseManagement/world.png
+/DatabaseManagement/admin.json
