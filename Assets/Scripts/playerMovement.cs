@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class playerMovement : MonoBehaviour
 {
+
     void Start()
     {
         transform.position = new Vector3(0, 0, 0);
